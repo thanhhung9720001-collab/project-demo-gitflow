@@ -1,0 +1,4 @@
+Nhánh develop chờ ai ghé,
+Feature mới bắt đầu từ đây,
+Code xong rồi finish khép,
+Merge về chung, vui tay này.
