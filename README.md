@@ -1,0 +1,2 @@
+- Team T làm chức năng 1
+- Team V làm chức năng 2
